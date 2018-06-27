@@ -1,0 +1,20 @@
+Use this token to access the HTTP API:
+495077271:AAGEQ02CuKg-yVoLueL2k8gX4IeqpGlcxjY
+username:
+oksds_bot
+name:
+SmartBotSamantha
+
+help - помощь
+start - начать
+stop - остановить
+ru_en - переводить ru/en
+en_ru - переводить en/ru
+foto_next - покажи свое следующее фото
+foto_prev - покажи свое предыдущее фото
+music_help - включи режим музыки
+
+settings - настройки
+action - действие1
+
+sendMessage(chat_id, text)
